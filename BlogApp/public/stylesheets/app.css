@@ -1,0 +1,36 @@
+i.icon {
+    font-size: 2em;
+}
+
+#delete {
+    display: inline;
+}
+
+		.blog-post-container{
+			margin:1.5em; 
+			text-transform: uppercase;
+		}
+
+		.blog-post-date{
+			color: #3498db;
+		}
+
+		.blog-post-title{
+			color: #2c3e50;
+		}
+
+
+
+		.blog-post-paragraph{
+			font-size: 13px;
+		}
+
+		.article p:first-of-type{
+			border-left: 3px solid #bdc3c7;
+			padding-left: 3px;
+		}
+
+		hr{
+			border-color: #bdc3c7;
+
+		}
